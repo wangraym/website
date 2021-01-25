@@ -1,1 +1,1 @@
-# website
+# Personal website static content
